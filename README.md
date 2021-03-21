@@ -12,10 +12,6 @@ What things you need to install the software and how to install them
 
 1) Node js: 
 
-      -ubuntu: https://www.zeolearn.com/magazine/setup-react-ubuntu
-
-      -windows:  https://www.liquidweb.com/kb/install-react-js-windows/
-
 ### Installing
 
 After installing react on your computer, open it using terminal and install the dependencies needed.

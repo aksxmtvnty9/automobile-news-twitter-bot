@@ -8,13 +8,13 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
+What things you need to install the software
 
 1) Node js: 
 
 ### Installing
 
-After installing react on your computer, open it using terminal and install the dependencies needed.
+After installing NodeJs on your computer, open it using terminal and install the dependencies needed.
 
 ```
 npm install

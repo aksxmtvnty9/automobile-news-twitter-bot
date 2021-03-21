@@ -1,0 +1,23 @@
+{
+  "name": "automotive-news-bot",
+  "version": "0.1.0",
+  "description": "A bot to spread the automotive news",
+  "main": "index.js",
+  "scripts": {
+    "start_local": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pascerprano/automobile-news-twitter-bot.git"
+  },
+  "author": "pascerprano",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pascerprano/automobile-news-twitter-bot/issues"
+  },
+  "homepage": "https://github.com/pascerprano/automobile-news-twitter-bot#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "twit": "^2.2.11"
+  }
+}
